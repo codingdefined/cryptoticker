@@ -1,0 +1,21 @@
+{
+  "name": "cryptoticker",
+  "version": "1.0.0",
+  "description": "Node module to easily find the price of a certain cryptocurrencies from a lot of website",
+  "author": "Coding Defined <codingdefined@gmail.com> (http://www.codingdefined.com)",
+  "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/codingdefined/cryptoticker.git"
+  },
+  "keywords": [
+  	"crypto",
+  	"cryptocurrency",
+  	"price checker"
+  ],
+  "license": "MIT",
+  "bugs": {
+  	  "url": "https://github.com/codingdefined/cryptoticker/issues"
+  	},
+   "homepage" : "https://github.com/codingdefined/cryptoticker"
+}
